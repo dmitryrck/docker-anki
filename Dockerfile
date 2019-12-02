@@ -2,7 +2,7 @@ from ubuntu
 
 env DEBIAN_FRONTEND=noninteractive \
   LANG=en_US.UTF-8 \
-  ANKI_VERSION=2.0.52
+  ANKI_VERSION=2.1.15
 
 add https://apps.ankiweb.net/downloads/current/anki-$ANKI_VERSION-amd64.tar.bz2 /
 
